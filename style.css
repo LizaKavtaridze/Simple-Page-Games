@@ -12,6 +12,12 @@ h1 {
   .image-container {
     display: flex;
   }
+thead, tbody {
+  list-style-type: none;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
   
  
   
